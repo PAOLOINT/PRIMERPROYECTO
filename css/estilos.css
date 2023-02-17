@@ -1,0 +1,29 @@
+.contenedor{
+    padding-left: 5%;
+}
+
+.margen{
+     padding-left: 1%;
+}
+.titulo{
+     color:rgb(245, 245, 245);   
+     background: url(/world.jpg); 
+     background-repeat: no-repeat;
+     
+     
+
+}
+.titulo2{
+    color: hwb(55 5% 1%);
+    background-color: red;
+   
+    
+}
+.fondo{
+    background: url(/consejos-y-tendencias-en-el-mundo-tecnologico.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+}
